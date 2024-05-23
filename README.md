@@ -2,6 +2,8 @@
 
 * 🗽 I'm a New York native
 * 💼 Studying Data Analytics at Bentley University
+* 📚 Right now... I'm working on finsishing my Senior Year strong
+* 🌴 I'm passionate about sustainability and ways we can better our planet
 
 <!--
 **ecampos123/ecampos123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
