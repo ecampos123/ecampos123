@@ -2,7 +2,7 @@
 
 * 🗽 I'm a New York native
 * 💼 Studying Data Analytics at Bentley University
-* 📚 Right now... I'm working on finsishing my Senior Year strong
+* 📚 Right now... I'm working on finishing my senior year strong
 * 🌴 I'm passionate about sustainability and ways we can better our planet
 
 <!--
