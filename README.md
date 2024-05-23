@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Edgar
+## Hi there 👋 I'm Edgar!!
 
 * 🗽 I'm a New York native
 * 💼 Studying Data Analytics at Bentley University
