@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Edgar
+
+* 🗽 I'm a New York native
+* 💼 Studying Data Analytics at Bentley University
 
 <!--
 **ecampos123/ecampos123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
